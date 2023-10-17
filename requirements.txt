@@ -1,0 +1,3 @@
+gradio
+ctransformers[cuda]
+langchain
